@@ -1,27 +1,26 @@
 # price_pdfconverter
 
-## Açıklama
+## Description
 
-Merhaba,
+Hello,
 
-Bu projede, kullanıcıların PDF dönüştürme işlemlerini özelleştirebileceği bir açık kaynaklı sistem sunmaktayım. Proje, özellikle mağazalar için fiyat etiketi otomasyonu amacıyla tasarlanmıştır. Ticari kullanım için de uygundur ve ihtiyaçlarınıza göre özelleştirebilirsiniz.
+In this project, I am providing an open-source system that allows users to customize PDF conversion processes. The project is specifically designed for price tag automation in stores. It is also suitable for commercial use and can be customized to meet your needs.
 
-## Özellikler
+## Features
 
-- **Kullanıcı Arayüzü ve Kod Özelleştirmesi:** Hem kullanıcı arayüzü hem de arka planda kullanılan kod üzerinde değişiklik yapabilirsiniz.
-- **Fiyat Etiketi Otomasyonu:** Mağazalar için tasarlanmış otomasyon çözümleri sunar.
+- **User Interface and Code Customization:** You can make changes to both the user interface and the backend code.
+- **Price Tag Automation:** It offers automation solutions designed for stores.
 
-## Dikkat Edilmesi Gerekenler
+## Important Considerations
 
-- **Barındırma:** Projeyi yerel bir sunucuda veya bir genel sunucuda barındırmak, olası hataları minimize edecektir.
-- **Tasarım Açıkları:** Projede bazı tasarım açıkları bulunabilir; bu nedenle, bu açıklıkların düzeltilmesi gerekebilir. Ancak, bu açıkların çoğu kullanıcılar tarafından fark edilmesi zor olabilir.
-- **Güncellemeler ve İyileştirmeler:** Proje ilgi gördüğünde, yeni yamanın (patch) yayınlanması ile hataları düzelterek ve performansı artırarak daha stabil hale getireceğim.
+- **Hosting:** Hosting the project on a local server or a public server will minimize potential errors.
+- **Design Vulnerabilities:** The project may have some design vulnerabilities; these may need to be addressed. However, most of these vulnerabilities might be difficult for users to notice.
+- **Updates and Improvements:** When the project gains attention, I will release new patches to fix errors and improve stability by enhancing performance.
 
-## Telif Hakkı ve Yasal Sorumluluk
+## Copyright and Legal Responsibility
 
-- **Telif Hakkı:** Projeyi dilediğiniz şekilde kullanabilir ve geliştirebilirsiniz.
-- **Yasal Sorumluluk:** Proje, jsPDF kütüphanesini kullanmaktadır. Bu nedenle, zararlı yazılım sorumluluğunu üstlenmiyorum. Kütüphanenin kullanım şartlarını ve güvenlik önlemlerini göz önünde bulundurmanız önemlidir.
+- **Copyright:** You are free to use and develop the project in any way you want.
+- **Legal Responsibility:** The project uses the jsPDF library. Therefore, I do not take responsibility for any malware issues. It is important to consider the library's terms of use and security precautions.
 
-Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin.
-Teşekkürler!
-
+If you have any questions or feedback, please feel free to get in touch.
+Thank you!
